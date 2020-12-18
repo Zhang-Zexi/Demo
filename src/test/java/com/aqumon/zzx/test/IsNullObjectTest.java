@@ -1,6 +1,5 @@
 package com.aqumon.zzx.test;
 
-import com.alibaba.fastjson.JSON;
 import com.aqumon.zzx.list.Product;
 import org.junit.Test;
 
